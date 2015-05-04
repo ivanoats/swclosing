@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     newrelic_rpm (3.5.6.55)
     rack (1.4.4)
