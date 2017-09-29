@@ -1,1 +1,1 @@
-scotty  --website --bucket www.sustainablewebsites.com --update
+scotty  --website --bucket=www.sustainablewebsites.com --update --source=public
