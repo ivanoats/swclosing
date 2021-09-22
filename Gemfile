@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 gem 'newrelic_rpm'
-gem 'rack'
-gem 'puma'
+gem 'rack', '>= 2.1.4'
+gem 'puma', '>= 4.3.8'
